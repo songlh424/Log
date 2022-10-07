@@ -29,8 +29,8 @@ void EM_LOG(const int level, const char*file, const int line, const char* fmt, .
 }
 
 // 测试
-void main()
-{
-    int a = 10;
-    EMLog(LOG_WARN, "a = %d", a);
-}
+// void main()
+// {
+//     int a = 10;
+//     EMLog(LOG_WARN, "a = %d", a);
+// }
