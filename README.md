@@ -1,2 +1,2 @@
 # Log
-Debug log for software development
+项目开发中用到大量的printf语句，不便于管理，今设计一个接口封装printf，通过宏定义进行控制
